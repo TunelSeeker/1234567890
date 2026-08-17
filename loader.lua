@@ -1,4 +1,4 @@
-local I0loljL1lO1o1j=(getfenv and getfenv(1)) or _ENV or _G
+local I0loljL1lO1o1j=(getfenv and getfenv(1)) or _ENV or _G --
 local li0iLLiLo,iO1i01ojLLOLj=string.byte,string.char
 local function jl1jojj01loLi(I1IiI00I,ljooOOOlo0ojj)
 local LOjlOiloLoj=""
